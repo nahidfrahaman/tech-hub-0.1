@@ -44,6 +44,28 @@ body{
     font-size: 20px;
     border-radius: 5px;
 }
+.icon-filled{
+    color: gold;
+}
+.custom-box{
+    position: relative;
+}
+.tech-arrow-box{
+    position: absolute;
+    top: 150px;
+    left: -10px;
+
+}
+.tech-arrow-box-2{
+    position: absolute;
+    top: 150px;
+    right: -10px;
+
+}
+.arrow-icon{
+    color: #289BDE;
+    font-size: 25px;
+}
 
 @media  screen and (max-width:576px) {
     .tech-cover-img>img{
