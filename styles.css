@@ -27,6 +27,13 @@ body{
     object-fit: contain;
    
 }
+.tech-explore-bg{
+    background-color: #F4FAFD;
+}
+.row>*{
+    padding: 0;
+    margin: 0;
+}
 
 @media  screen and (max-width:576px) {
     .tech-cover-img>img{
