@@ -30,9 +30,19 @@ body{
 .tech-explore-bg{
     background-color: #F4FAFD;
 }
-.row>*{
+.tech-explore-section{
     padding: 0;
     margin: 0;
+}
+.tech-register-bg{
+    background-color: #289BDE;
+}
+.tech-btn-register{
+    background-color: #fff;
+    color: #289BDE;
+    padding: 5px 20px;
+    font-size: 20px;
+    border-radius: 5px;
 }
 
 @media  screen and (max-width:576px) {
