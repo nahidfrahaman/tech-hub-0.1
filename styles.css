@@ -18,6 +18,15 @@ body{
     padding: 10px 20px;
 
 }
+.tech-courses>img{
+    height: 200px;
+}
+.custom-object-fit>img{
+    
+    height: 250px;
+    object-fit: contain;
+   
+}
 
 @media  screen and (max-width:576px) {
     .tech-cover-img>img{
@@ -26,6 +35,7 @@ body{
     .tech-header{
         font-size: 25px;
     }
+   
 }
 @media  screen and (min-width:577px) and (max-width:768px){
     .tech-cover-img>img{
