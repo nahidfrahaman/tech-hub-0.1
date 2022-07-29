@@ -5,6 +5,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* common styles end  */
 .tech-cover-img{
    background-image:  linear-gradient(90deg, rgba(24,24,24,1) 0%, rgba(36,35,35,1) 100%);
 }
@@ -71,6 +72,7 @@ body{
     height: 350px;
     
 }
+/* media quaries  */
 
 @media  screen and (max-width:576px) {
     .tech-cover-img>img{
